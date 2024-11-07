@@ -17,10 +17,15 @@ $$v_{0y} = v_0 sin\alpha$$
 + *Равномерное по оси x:* $$x = v_0tcos\alpha$$ $$v_x = v_0cos\alpha$$
 + *Равноускоренное по оси y:* $$0 = v_0sin\alpha - gt_{под}$$ $$t_{под} = (v_0sin\alpha)/g$$
 
- Максимальная высота подъема - координата y при времени подъема $t_{\text{под}}$
-$$ h_{max} = v_0t_{под}sin\alpha - (gt^2_{под})/2 = (v_0sin^2\alpha)/2g$$
+Максимальная высота подъема - координата y при времени подъема $\ t_{\text{под}} \$
+
+
+
+$$ h_{max} = v_0 t_{\text{под}} \sin \alpha - \frac{g t_{\text{под}}^2}{2} = \frac{v_0 \sin^2 \alpha}{2g} $$
+
 
 Примеры результатов работы программы:
+
 ![ballistic_trajectory.gif](ballistic_trajectory.gif)
 ![coordinate_time.png](coordinate_time.png)
 ![speed_time.png](speed_time.png)
